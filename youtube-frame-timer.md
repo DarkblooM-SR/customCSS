@@ -1,5 +1,10 @@
 # [@Slashinfty](https://github.com/slashinfty/)'s YouTube Frame Timer
-Apply to `https://slashinfty.github.io/yt-frame-timer/`
+## Before:
+![before](https://i.imgur.com/VtRcnuE.png)
+## After:
+![after](https://i.imgur.com/ZMhbECZ.png)
+## Install
+Apply to URL `https://slashinfty.github.io/yt-frame-timer/`
 <br>
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
