@@ -2,7 +2,7 @@
 ## Before:
 ![before](https://i.imgur.com/VtRcnuE.png)
 ## After:
-![after](https://i.imgur.com/ZMhbECZ.png)
+![after](https://i.imgur.com/UgswsIB.png)
 ## Install
 Apply to URL `https://slashinfty.github.io/yt-frame-timer/`
 <br>
@@ -14,6 +14,19 @@ Apply to URL `https://slashinfty.github.io/yt-frame-timer/`
     font-family: 'Ubuntu', sans-serif;
     background: rgb(50,50,50);
     color: white;
+}
+
+body::-webkit-scrollbar {
+    width: 0.8em;
+}
+
+body::-webkit-scrollbar-track {
+    display: none;
+}
+
+body::-webkit-scrollbar-thumb {
+    background: rgb(30,30,30);
+    border-radius: 10em;
 }
 
 #framerate,
